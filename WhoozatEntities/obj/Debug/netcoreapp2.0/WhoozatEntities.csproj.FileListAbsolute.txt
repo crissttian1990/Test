@@ -1,0 +1,9 @@
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatEntities\bin\Debug\netcoreapp2.0\WhoozatEntities.deps.json
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatEntities\bin\Debug\netcoreapp2.0\WhoozatEntities.dll
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatEntities\bin\Debug\netcoreapp2.0\WhoozatEntities.pdb
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatEntities\obj\Debug\netcoreapp2.0\WhoozatEntities.csprojResolveAssemblyReference.cache
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatEntities\obj\Debug\netcoreapp2.0\WhoozatEntities.csproj.CoreCompileInputs.cache
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatEntities\obj\Debug\netcoreapp2.0\WhoozatEntities.AssemblyInfoInputs.cache
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatEntities\obj\Debug\netcoreapp2.0\WhoozatEntities.AssemblyInfo.cs
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatEntities\obj\Debug\netcoreapp2.0\WhoozatEntities.dll
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatEntities\obj\Debug\netcoreapp2.0\WhoozatEntities.pdb

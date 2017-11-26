@@ -1,0 +1,11 @@
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatAPI\bin\Debug\netcoreapp2.0\WhoozatAPI.deps.json
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatAPI\bin\Debug\netcoreapp2.0\WhoozatAPI.runtimeconfig.json
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatAPI\bin\Debug\netcoreapp2.0\WhoozatAPI.runtimeconfig.dev.json
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatAPI\bin\Debug\netcoreapp2.0\WhoozatAPI.dll
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatAPI\bin\Debug\netcoreapp2.0\WhoozatAPI.pdb
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatAPI\obj\Debug\netcoreapp2.0\WhoozatAPI.csprojResolveAssemblyReference.cache
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatAPI\obj\Debug\netcoreapp2.0\WhoozatAPI.csproj.CoreCompileInputs.cache
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatAPI\obj\Debug\netcoreapp2.0\WhoozatAPI.AssemblyInfoInputs.cache
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatAPI\obj\Debug\netcoreapp2.0\WhoozatAPI.AssemblyInfo.cs
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatAPI\obj\Debug\netcoreapp2.0\WhoozatAPI.dll
+C:\Users\criss\source\repos\WhoozatAPI\WhoozatAPI\obj\Debug\netcoreapp2.0\WhoozatAPI.pdb
